@@ -23,3 +23,8 @@ Analyze employee attrition patterns and identify factors that contribute to empl
 - Review overtime policies.
 - Improve retention efforts in Sales.
 - Review compensation strategies.
+
+## Project Files
+
+- IBM_Employee_AttritionAnalysis.py → Main analysis script
+- WA_Fn-UseC_-HR-Employee-Attrition.csv → Dataset used
