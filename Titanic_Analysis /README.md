@@ -1,4 +1,4 @@
-# Titanic Survival Analysis
+# Titanic Survival Analysis 
 
 Exploratory data analysis (EDA) of the Titanic dataset, using pandas, seaborn and matplotlib.
 
