@@ -16,9 +16,9 @@ In code, it's loaded via seaborn's built-in copy of the same dataset (`sns.load_
 - Is there a correlation between ticket fare and survival?
 
 ## Key findings
-- *(fill in: e.g. "Women had a survival rate of 74%, men of 19%")*
-- *(fill in: e.g. "1st class had 63% survival rate, 3rd class 24%")*
-- *(fill in: e.g. "Even within the same gender, class made a difference of 47 percentage points")*
+- *( "Women had a survival rate of 74%, men of 19%")*
+- *( "1st class had 63% survival rate, 3rd class 24%")*
+- *( "Even within the same gender, class made a difference of 47 percentage points")*
 
 ## Charts
 ![Survival by class](images/survival_by_class.png)
